@@ -36,7 +36,7 @@ def crawl(url):
 if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("")
-        print("  \033[37mUsage: python3 cr4wler2.py <url>")
+        print("     \033[37mUsage: python3 cr4wler2.py <url>")
         print("")  
         sys.exit(1)
 
