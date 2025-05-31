@@ -3,6 +3,14 @@ Optional Crawling Scripts
 
 <br>
 
+Dependencies 
+* python3 
+* requests
+* bs4
+* nano
+
+<br>
+
 ```bash
 git clone https://github.com/ghoste9624/cr4wler
 cd ~/cr4wler
